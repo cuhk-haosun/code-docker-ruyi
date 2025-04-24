@@ -1,2 +1,2 @@
 # code-docker-ruyi
-Ruyi is a docker container for compress and decompress data for auto archival purpose
+Ruyi is a docker container for compress data for auto archival purpose
